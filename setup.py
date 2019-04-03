@@ -9,7 +9,7 @@ setup(
     author='Alan Chang',
     author_email='tcode2k16@gmail.com',
     python_requires='>=2.7, <3',
-    url='https/',
+    url='https://github.com/tcode2k16/esobrute',
     packages=['esobrute'],
     scripts=['scripts/esobrute'],
     install_requires=['requests>=2.20.1', 'termcolor>=1.1.0', 'Click>=7.0'],
