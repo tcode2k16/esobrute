@@ -1,6 +1,6 @@
 # esobrute
 
-An esoteric programming languages brute forcer powered by tio.run. Only support python2 currently.
+An esoteric programming languages brute forcer powered by tio.run. Only supports python2 currently.
 
 ## Install
 
